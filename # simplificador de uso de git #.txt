@@ -1,0 +1,16 @@
+# "simplificador de uso de git" # 
+
+errores al subir un git:
+
+1 quieres subir una carpeta que contiene otra carpeta que es un repositorio.
+una solucion seria eliminar dicha carpeta del bash para resubir la nueva donde esta estara incluida.
+usa: "rm -rf .git"  
+abras eliminado todas las carpetas y repositorios cargados a tu gitbash y estara limpio para tu nuevo init, si vas a "git status" todo estara limpio.
+
+2  Si quieres borrar del git hub.
+SI QUIERES BORRAR ALGO DE GH PERO DESEAS MANTENERLO EN EL BASH SOLO INTRODUCE EL COMANDO:
+ "git rm -r --cached ."
+ "git commit -m "Elimine  los archivos del remoto"
+ "git push origin main/master" ojo elige main o master segun hayas usado.
+
+
