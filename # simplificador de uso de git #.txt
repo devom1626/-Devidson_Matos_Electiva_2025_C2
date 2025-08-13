@@ -29,4 +29,4 @@ SI QUIERES BORRAR ALGO DE GH PERO DESEAS MANTENERLO EN EL BASH SOLO INTRODUCE EL
 "git commit -m "Eliminar carpeta NIVARAX"
 "git push"
 
-hola todo estara bien!!! 
+hola todo estara bien!!! el mundo acabara
